@@ -36,11 +36,15 @@ Endpoints
 
 Aqui estão alguns endpoints disponíveis nesta API:
 
-GET /api/tasks/: Retorna a lista de tarefas.
-POST /api/tasks/: Cria uma nova tarefa.
-GET /api/tasks/{id}/: Retorna os detalhes de uma tarefa específica.
-PUT /api/tasks/{id}/: Atualiza uma tarefa existente.
-DELETE /api/tasks/{id}/: Exclui uma tarefa.
+1.GET /api/tasks/: Retorna a lista de tarefas.
+
+2.POST /api/tasks/: Cria uma nova tarefa.
+
+3.GET /api/tasks/{id}/: Retorna os detalhes de uma tarefa específica.
+
+4.PUT /api/tasks/{id}/: Atualiza uma tarefa existente.
+
+5.DELETE /api/tasks/{id}/: Exclui uma tarefa.
 
 
 
